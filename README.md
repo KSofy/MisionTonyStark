@@ -1,5 +1,5 @@
 # MisionTonyStark
-Nota: en el parcial tome el código que está en el pdf.
+Nota en el parcial tome el codigo que esta en el pdf
 
 ![Captura de pantalla 2025-02-27 133121](https://github.com/user-attachments/assets/594e0f31-a32e-4382-a1c3-99715fe31c85)
 
